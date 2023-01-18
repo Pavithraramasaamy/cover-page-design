@@ -164,11 +164,11 @@ Code:
 
 ## OUTPUT:
 
-![OUTPUT](./output.png)
+![](./output.png)
 
 ## HTML Validator:
 
-![HTML Validator](./valid1.png)
+![](./valid1.png)
 
 
 ## RESULT:
