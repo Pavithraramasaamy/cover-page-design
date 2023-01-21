@@ -168,7 +168,7 @@ Code:
 
 ## HTML Validator:
 
-![](./valid1.png)
+
 ![](./output.png)
 
 ## RESULT:
