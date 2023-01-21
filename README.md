@@ -163,13 +163,13 @@ Code:
 
 
 ## OUTPUT:
+![](./valid1.png)
 
-![](./output.png)
 
 ## HTML Validator:
 
 ![](./valid1.png)
-
+![](./output.png)
 
 ## RESULT:
 
